@@ -4,29 +4,36 @@
       "banner",
       "interstitial",
       "splash",
-      "appOpen"
+      "appOpen",
+      "smallNative",
+      "mediumNative",
+      "manualNative"
     ],
-    "banner": "ca-app-pub-2299291161271404/8727715111",
-    "interstitial": "ca-app-pub-2299291161271404/8727715176",
-    "splash": "ca-app-pub-2299291161271404/8727715177",
-    "appOpen": "ca-app-pub-2299291161271404/8727715171",
-    "smallNative": "ca-app-pub-2299291161271404/8727715172",
-    "mediumNative": "",
-    "manualNative": ""
+    "banner": "ca-app-pub-3940256099942544/2934735716",
+    "interstitial": "ca-app-pub-3940256099942544/4411468910",
+    "splash": "ca-app-pub-3940256099942544/4411468910",
+    "appOpen": "ca-app-pub-3940256099942544/5662855259",
+    "smallNative": "ca-app-pub-3940256099942544/3986624511",
+    "mediumNative": "ca-app-pub-3940256099942544/3986624511",
+    "manualNative": "ca-app-pub-3940256099942544/3986624511"
   },
   "applovin": {
     "adUnits": [
       "banner",
       "interstitial",
-      "appOpen"
+      "splash",
+      "appOpen",
+      "smallNative",
+      "mediumNative",
+      "manualNative"
     ],
-    "banner": "310832f81b57d366",
-    "interstitial": "310832f81b57d367",
-    "splash": "",
-    "appOpen": "310832f81b57d365",
-    "smallNative": "310832f81b57d363",
-    "mediumNative": "",
-    "manualNative": ""
+    "banner": "7bb19319eb4e7840",
+    "interstitial": "7ea8ce479ebc2253",
+    "splash": "7ea8ce479ebc2253",
+    "appOpen": "efca9fcb3a51f65f",
+    "smallNative": "68e116434128523a",
+    "mediumNative": "68e116434128523a",
+    "manualNative": "68e116434128523a"
   },
   "adsorder": [
     "admob",
