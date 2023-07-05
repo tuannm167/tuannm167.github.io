@@ -3,7 +3,8 @@
     "adUnits": [
       "banner",
       "interstitial",
-      "splash"
+      "splash",
+      "appOpen"
     ],
     "banner": "ca-app-pub-2299291161271404/8727715111",
     "interstitial": "ca-app-pub-2299291161271404/8727715176",
@@ -16,7 +17,8 @@
   "applovin": {
     "adUnits": [
       "banner",
-      "interstitial"
+      "interstitial",
+      "appOpen"
     ],
     "banner": "310832f81b57d366",
     "interstitial": "310832f81b57d367",
