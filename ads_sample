@@ -14,7 +14,6 @@
   },
   "applovin": {
     "adUnits": [
-      "appOpen",
       "smallNative",
         "interstitial"
     ],
