@@ -1,13 +1,8 @@
 {
   "admob": {
     "adUnits": [
-      "banner",
-      "interstitial",
-      "splash",
       "appOpen",
-      "smallNative",
-      "mediumNative",
-      "manualNative"
+      "smallNative"
     ],
     "banner": "ca-app-pub-3940256099942544/2934735716",
     "interstitial": "ca-app-pub-3940256099942544/4411468910",
@@ -19,13 +14,8 @@
   },
   "applovin": {
     "adUnits": [
-      "banner",
-      "interstitial",
-      "splash",
       "appOpen",
-      "smallNative",
-      "mediumNative",
-      "manualNative"
+      "smallNative"
     ],
     "banner": "7bb19319eb4e7840",
     "interstitial": "7ea8ce479ebc2253",
