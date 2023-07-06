@@ -1,6 +1,8 @@
 {
   "admob": {
     "adUnits": [
+       "appOpen",
+       "smallNative"
     ],
     "banner": "ca-app-pub-3940256099942544/2934735716",
     "interstitial": "ca-app-pub-3940256099942544/4411468910",
@@ -24,8 +26,8 @@
     "manualNative": "68e116434128523a"
   },
   "adsorder": [
-    "admob",
-    "applovin"
+    "applovin",
+    "admob"
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
   "willplayer": 1
