@@ -4,6 +4,7 @@
       "adUnits": [
                         "appOpen",
                         "smallNative",
+                        "interstitial",
                         "splash"
                     ],
                     "name": "admob",
