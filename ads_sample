@@ -2,31 +2,33 @@
   "adstype": [
     {
       "adUnits": [
-        "appOpen",
-        "smallNative"
-      ],
-      "name": "admob",
-      "banner": "ca-app-pub-3940256099942544/2934735716",
-      "interstitial": "ca-app-pub-3940256099942544/4411468910",
-      "splash": "ca-app-pub-3940256099942544/4411468910",
-      "appOpen": "ca-app-pub-3940256099942544/5662855259",
-      "smallNative": "ca-app-pub-3940256099942544/3986624511",
-      "mediumNative": "ca-app-pub-3940256099942544/3986624511",
-      "manualNative": "ca-app-pub-3940256099942544/3986624511"
+                        "appOpen",
+                        "smallNative",
+                        "splash"
+                    ],
+                    "name": "admob",
+                    "banner": "ca-app-pub-2299291161271404/4684345577",
+                    "interstitial": "ca-app-pub-2299291161271404/5860598393",
+                    "splash": "ca-app-pub-2299291161271404/4024772549",
+                    "appOpen": "ca-app-pub-2299291161271404/3263452697",
+                    "smallNative": "ca-app-pub-2299291161271404/2940019068",
+                    "mediumNative": "ca-app-pub-2299291161271404/6132061130",
+                    "manualNative": "ca-app-pub-2299291161271404/7589710514"
     },
     {
       "adUnits": [
         "smallNative",
-        "appOpen"
+        "appOpen",
+        "interstitial"
       ],
       "name": "applovin",
-      "banner": "7bb19319eb4e7840",
-      "interstitial": "7ea8ce479ebc2253",
-      "splash": "7ea8ce479ebc2253",
-      "appOpen": "efca9fcb3a51f65f",
-      "smallNative": "68e116434128523a",
-      "mediumNative": "68e116434128523a",
-      "manualNative": "68e116434128523a"
+                    "banner": "788dba4ba02503f6",
+                    "interstitial": "a73d9e915062c92b",
+                    "splash": "",
+                    "appOpen": "d8109b64b622d272",
+                    "smallNative": "c86140f106abc47d",
+                    "mediumNative": "6cbf5e7c39660ffc",
+                    "manualNative": "056145d78d496df1"
     }
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
