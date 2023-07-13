@@ -3,7 +3,8 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "splash"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4721511190",
