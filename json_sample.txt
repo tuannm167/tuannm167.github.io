@@ -31,5 +31,6 @@
     }
   ],
   "showinterstitial": 0,
-  "showrate": false
+  "showrate": false,
+  "mreccc_id": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
