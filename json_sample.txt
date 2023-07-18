@@ -3,8 +3,7 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative",
-        "splash"
+        "smallNative"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4721511190",
@@ -32,5 +31,5 @@
   ],
   "showinterstitial": 0,
   "showrate": false,
-  "adssubkey": ""
+  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
