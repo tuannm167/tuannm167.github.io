@@ -4,7 +4,7 @@
       "adUnits": [
         "appOpen",
         "smallNative",
-        "splash"
+        "interstitial"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4721511190",
