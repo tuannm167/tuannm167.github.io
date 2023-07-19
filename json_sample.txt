@@ -29,7 +29,5 @@
       "manualNative": ""
     }
   ],
-  "showinterstitial": 0,
-  "showrate": false,
   "adssubkey": ""
 }
