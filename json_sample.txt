@@ -12,7 +12,8 @@
       "appOpen": "ca-app-pub-2299291161271404/8428041660",
       "smallNative": "ca-app-pub-2299291161271404/4680368349",
       "mediumNative": "",
-      "manualNative": ""
+      "manualNative": "",
+      "reward": "ca-app-pub-2299291161271404/4809141105"
     },
     {
       "adUnits": [
@@ -26,8 +27,9 @@
       "appOpen": "eb3323870726e800",
       "smallNative": "4e8b103d424ebb06",
       "mediumNative": "",
-      "manualNative": ""
+      "manualNative": "",
+      "reward": "65590d1caebb9813"
     }
   ],
-  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==" 
+  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
