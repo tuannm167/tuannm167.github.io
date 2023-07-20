@@ -29,5 +29,5 @@
       "manualNative": ""
     }
   ],
-  "adssubkey": "" 
+  "adssubkey": "1" 
 }
