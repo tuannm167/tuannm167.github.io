@@ -1,6 +1,18 @@
 {
   "adsModels": [
-    
+    {
+      "adUnits": [
+        "appOpen",
+        "native",
+        "splash"
+      ],
+      "name": "admob",
+      "banner": "ca-app-pub-2299291161271404/4007494047",
+      "interstitial": "ca-app-pub-2299291161271404/3189236391",
+      "splash": "ca-app-pub-2299291161271404/4125029640",
+      "appOpen": "ca-app-pub-2299291161271404/6796205266",
+      "native": "ca-app-pub-2299291161271404/9068249033"
+    },
     {
       "adUnits": [
         "appOpen",
