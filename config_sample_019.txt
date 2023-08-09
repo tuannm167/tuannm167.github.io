@@ -3,14 +3,15 @@
     {
       "adIds": [
         "appOpen",
-        "native"
+        "native",
+        "splash"
       ],
       "kind": "admob",
-      "banner": "ca-app-pub-2299291161271404/4007494047",
-      "interstitial": "ca-app-pub-2299291161271404/3189236391",
-      "splash": "ca-app-pub-2299291161271404/4125029640",
-      "appOpen": "ca-app-pub-2299291161271404/6796205266",
-      "native": "ca-app-pub-2299291161271404/9068249033"
+      "banner": "ca-app-pub-2299291161271404/3866450284",
+      "interstitial": "ca-app-pub-2299291161271404/2430079681",
+      "splash": "ca-app-pub-2299291161271404/5115952773",
+      "appOpen": "ca-app-pub-2299291161271404/2298217742",
+      "native": "ca-app-pub-2299291161271404/7407074197"
     },
     {
       "adIds": [
@@ -18,11 +19,11 @@
         "native"
       ],
       "kind": "applovin",
-      "banner": "4bf87318bbc80b66",
-      "interstitial": "2321bcdd10baf05d",
+      "banner": "61b03a343a5971e8",
+      "interstitial": "9045e1cae95b5ccd",
       "splash": "",
-      "appOpen": "eb3323870726e800",
-      "native": "ed0e9c3624acc0bc"
+      "appOpen": "e75c939baad5a0f5",
+      "native": "5b4bdbbbe78c746"
     }
   ]
 }
