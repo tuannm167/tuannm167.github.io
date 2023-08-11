@@ -3,14 +3,15 @@
     {
       "adUnits": [
         "appOpen",
-        "smallNative"
+        "smallNative",
+        "banner"
       ],
       "name": "admob",
-      "banner": "ca-app-pub-2299291161271404/4721511190",
-      "interstitial": "ca-app-pub-2299291161271404/3407332049",
-      "splash": "ca-app-pub-2299291161271404/9781168704",
-      "appOpen": "ca-app-pub-2299291161271404/8428041660",
-      "smallNative": "ca-app-pub-2299291161271404/4680368349",
+      "banner": "ca-app-pub-3940256099942544/2934735716",
+      "interstitial": "ca-app-pub-3940256099942544/4411468910",
+      "splash": "	ca-app-pub-3940256099942544/4411468910",
+      "appOpen": "ca-app-pub-3940256099942544/5662855259",
+      "smallNative": "ca-app-pub-3940256099942544/3986624511",
       "mediumNative": "",
       "manualNative": "",
       "reward": "ca-app-pub-2299291161271404/4809141105"
