@@ -32,5 +32,6 @@
       "reward": "65590d1caebb9813"
     }
   ],
-  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
+  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==",
+  "piapi": "aHR0cDovL2lwLWFwaS5jb20vanNvbg=="
 }
