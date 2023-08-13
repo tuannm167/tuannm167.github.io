@@ -1,0 +1,28 @@
+{
+  "adKinds": [
+    {
+      "adIds": [
+        "appOpen",
+        "native"
+      ],
+      "kind": "admob",
+      "banner": "ca-app-pub-2299291161271404/3830791269",
+      "interstitial": "ca-app-pub-2299291161271404/2517709591",
+      "splash": "ca-app-pub-2299291161271404/1204627920",
+      "native": "ca-app-pub-2299291161271404/3420507970",
+      "appOpen": "ca-app-pub-2299291161271404/7271342827"
+    },
+    {
+      "adIds": [
+        "appOpen",
+        "native"
+      ],
+      "kind": "applovin",
+      "banner": "ae18527a89238e49",
+      "interstitial": "057bf0fe6af6b546",
+      "splash": "",
+      "native": "809cde2edb931ab9",
+      "appOpen": "a782849e8f6ffa61"
+    }
+  ]
+}
