@@ -7,11 +7,11 @@
         "splash"
       ],
       "kind": "admob",
-      "banner": "ca-app-pub-2299291161271404/3830791269",
-      "interstitial": "ca-app-pub-2299291161271404/2517709591",
-      "splash": "ca-app-pub-2299291161271404/1204627920",
-      "native": "ca-app-pub-2299291161271404/3420507970",
-      "appOpen": "ca-app-pub-2299291161271404/7271342827"
+      "banner": "ca-app-pub-2299291161271404/3444987301",
+      "interstitial": "ca-app-pub-2299291161271404/2076312735",
+      "splash": "ca-app-pub-2299291161271404/7707913369",
+      "native": "ca-app-pub-2299291161271404/9763231067",
+      "appOpen": "ca-app-pub-2299291161271404/7192660620"
     },
     {
       "adIds": [
@@ -19,11 +19,11 @@
         "native"
       ],
       "kind": "applovin",
-      "banner": "ae18527a89238e49",
-      "interstitial": "057bf0fe6af6b546",
-      "splash": "",
-      "native": "809cde2edb931ab9",
-      "appOpen": "a782849e8f6ffa61"
+      "banner": "0e71beedac160b54",
+      "interstitial": "23fc8bbbdb1cd534",
+      "splash": "f9aeac22e0fdec9a",
+      "native": "a1f7eeeccc6a8fd9",
+      "appOpen": "93842e76dc132ec6"
     }
   ]
 }
