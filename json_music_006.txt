@@ -32,5 +32,5 @@
     }
   ],
   "piapi": "123",
-  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
+  "adssubkey": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==1"
 }
