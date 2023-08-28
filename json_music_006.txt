@@ -3,7 +3,6 @@
     {
       "adUnits": [
         "appOpen",
-        "splash",
         "smallNative"
       ],
       "name": "admob",
