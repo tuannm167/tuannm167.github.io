@@ -6,14 +6,14 @@
         "smallNative"
       ],
       "name": "admob",
-      "banner": "ca-app-pub-3940256099942544/2934735716",
-      "interstitial": "ca-app-pub-3940256099942544/4411468910",
-      "splash": "ca-app-pub-2299291161271404/9781168704",
-      "appOpen": "ca-app-pub-3940256099942544/5662855259",
+      "banner": "ca-app-pub-2299291161271404/6221449604",
+      "interstitial": "ca-app-pub-2299291161271404/5020048577",
+      "splash": "ca-app-pub-2299291161271404/4244392642",
+      "appOpen": "ca-app-pub-2299291161271404/6403652128",
       "smallNative": "ca-app-pub-2299291161271404/9305147637",
       "mediumNative": "",
       "manualNative": "",
-      "reward": "ca-app-pub-3940256099942544/1712485313"
+      "reward": "ca-app-pub-2299291161271404/6029877919"
     },
     {
       "adUnits": [
@@ -21,14 +21,14 @@
         "smallNative"
       ],
       "name": "applovin",
-      "banner": "a866e6bc5b8b2294",
-      "interstitial": "e0d67f7a56b6f1a8",
+      "banner": "022cdb778f70ef36",
+      "interstitial": "d63632192e287d51",
       "splash": "",
-      "appOpen": "eb3323870726e800",
-      "smallNative": "4e8b103d424ebb06",
+      "appOpen": "5ae5b4d70fc2af30",
+      "smallNative": "7e40f628b0054d99",
       "mediumNative": "",
       "manualNative": "",
-      "reward": "65590d1caebb9813"
+      "reward": "c6892f56db609201"
     }
   ],
   "piapi": "123",
