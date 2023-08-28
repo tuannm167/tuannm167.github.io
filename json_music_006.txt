@@ -2,7 +2,9 @@
   "adsModels": [
     {
       "adUnits": [
-        "appOpen"
+        "appOpen",
+        "splash",
+        "smallNative"
       ],
       "name": "admob",
       "banner": "ca-app-pub-3940256099942544/2934735716",
