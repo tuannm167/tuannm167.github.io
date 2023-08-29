@@ -10,7 +10,8 @@
       "interstitial": "ca-app-pub-2299291161271404/3189236391",
       "splash": "ca-app-pub-2299291161271404/4125029640",
       "appOpen": "ca-app-pub-2299291161271404/6796205266",
-      "native": "ca-app-pub-2299291161271404/9068249033"
+      "native": "ca-app-pub-2299291161271404/9068249033",
+      "reward": "ca-app-pub-2299291161271404/1498866302"
     },
     {
       "adUnits": [
@@ -22,8 +23,9 @@
       "interstitial": "2321bcdd10baf05d",
       "splash": "",
       "appOpen": "eb3323870726e800",
-      "native": "ed0e9c3624acc0bc"
+      "native": "ed0e9c3624acc0bc",
+      "reward": "e3152acfae4abe20"
     }
   ],
-"cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
+  "cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
