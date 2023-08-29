@@ -24,5 +24,6 @@
       "appOpen": "eb3323870726e800",
       "native": "ed0e9c3624acc0bc"
     }
-  ]
+  ],
+"cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
