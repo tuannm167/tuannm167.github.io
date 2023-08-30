@@ -27,6 +27,6 @@
       "reward": "2aa58dab5ba15262"
     }
   ],
-  "adNumber": 3,
+  "adNumber": 0,
   "adReward": null
 }
