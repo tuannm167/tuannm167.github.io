@@ -24,7 +24,7 @@
       "appOpen": "a782849e8f6ffa61"
     }
   ],
-  "sads": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
+  "sads": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=1",
   "dltm": 1,
   "yekipa": "0f020a66f3e35379eef31c31363f2176",
   "rateApp": false
