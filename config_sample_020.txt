@@ -2,9 +2,7 @@
   "adKinds": [
     {
       "adIds": [
-        "appOpen",
-        "native",
-        "splash"
+        "appOpen"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3830791269",
@@ -27,7 +25,7 @@
     }
   ],
   "sads": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=111",
-  "dltm": 0,
+  "dltm": 1,
   "yekipa": "0f020a66f3e35379eef31c31363f2176",
   "rateApp": false
 }
