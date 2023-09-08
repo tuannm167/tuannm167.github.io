@@ -29,5 +29,6 @@
     }
   ],
   "adNumber": 0,
-  "adReward": null
+  "adReward": null,
+  "delayTime": 10
 }
