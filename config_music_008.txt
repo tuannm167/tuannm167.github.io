@@ -27,7 +27,7 @@
       "reward": "e3152acfae4abe20"
     }
   ],
-  "cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==",
+  "cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==1",
    "paipai": "123",
-   "adapp": 1
+   "adapp": 0
 }
