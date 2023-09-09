@@ -28,5 +28,6 @@
     }
   ],
   "cshad": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw==",
-   "paipai": "123"
+   "paipai": "123",
+   "adapp": 1
 }
