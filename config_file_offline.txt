@@ -2,7 +2,6 @@
   "adKinds": [
     {
       "adIds": [
-        "appOpen",
         "native",
         "banner"
       ],
