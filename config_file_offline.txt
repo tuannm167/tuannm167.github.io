@@ -3,7 +3,8 @@
     {
       "adIds": [
         "native",
-        "banner"
+        "banner",
+        "reward"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3444987301",
@@ -17,8 +18,9 @@
       "adIds": [
         "appOpen",
         "native",
-        "splash",
-        "interstitial"
+        "banner",
+        "interstitial",
+        "reward"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
@@ -30,6 +32,6 @@
     }
   ],
   "adNumber": 5,
-  "adReward": null,
+  "adReward": "Watch video to import file",
   "delayTime": 10
 }
