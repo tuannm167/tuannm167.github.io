@@ -2,12 +2,7 @@
   "adKinds": [
     {
       "adIds": [
-        "native",
-        "banner",
-        "reward",
-        "splash",
-        "interstitial",
-        "reward"
+        
       ],
       "kind": "admob",
       "banner": "ca-app-pub-3940256099942544/2934735716",
@@ -19,9 +14,12 @@
     },
     {
       "adIds": [
-        "appOpen",
         "native",
-        "interstitial"
+        "banner",
+        "reward",
+        "splash",
+        "interstitial",
+        "reward"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
