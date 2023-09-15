@@ -4,15 +4,18 @@
       "adIds": [
         "native",
         "banner",
+        "reward",
+        "splash",
+        "interstitial",
         "reward"
       ],
       "kind": "admob",
-      "banner": "ca-app-pub-2299291161271404/3444987301",
-      "interstitial": "ca-app-pub-2299291161271404/2076312735",
-      "splash": "ca-app-pub-2299291161271404/7707913369",
-      "native": "ca-app-pub-2299291161271404/9763231067",
-      "appOpen": "ca-app-pub-2299291161271404/7192660620",
-      "reward": "ca-app-pub-2299291161271404/5081750029"
+      "banner": "ca-app-pub-3940256099942544/2934735716",
+      "interstitial": "ca-app-pub-3940256099942544/4411468910",
+      "splash": "ca-app-pub-3940256099942544/4411468910",
+      "native": "ca-app-pub-3940256099942544/3986624511",
+      "appOpen": "ca-app-pub-3940256099942544/5662855259",
+      "reward": "ca-app-pub-3940256099942544/1712485313"
     },
     {
       "adIds": [
