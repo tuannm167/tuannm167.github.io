@@ -31,6 +31,6 @@
     }
   ],
   "adNumber": 5,
-  "adReward": "Watch video to import file",
+  "adReward": null,
   "delayTime": 10
 }
