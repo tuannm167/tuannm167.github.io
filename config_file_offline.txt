@@ -29,7 +29,6 @@
       "kind": "applovin",
       "banner": "0e71beedac160b54",
       "interstitial": "23fc8bbbdb1cd534",
-      "splash": "f9aeac22e0fdec9a",
       "native": "a1f7eeeccc6a8fd9",
       "appOpen": "93842e76dc132ec6",
       "reward": "2aa58dab5ba15262"
