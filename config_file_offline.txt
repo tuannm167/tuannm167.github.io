@@ -19,7 +19,12 @@
     },
     {
       "adIds": [
-
+        "native",
+"banner",
+"reward",
+"splash",
+"interstitial",
+"appOpen"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
