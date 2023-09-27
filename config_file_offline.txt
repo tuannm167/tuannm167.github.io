@@ -2,27 +2,21 @@
   "adKinds": [
     {
       "adIds": [
-        "native",
-"banner",
-"reward",
-"splash",
-"interstitial",
-"appOpen"
+"splash"
       ],
       "kind": "admob",
-      "banner": "ca-app-pub-3940256099942544/2934735716",
-      "interstitial": "ca-app-pub-3940256099942544/4411468910",
-      "splash": "ca-app-pub-3940256099942544/4411468910",
-      "native": "ca-app-pub-3940256099942544/3986624511",
-      "appOpen": "ca-app-pub-3940256099942544/5662855259",
-      "reward": "ca-app-pub-3940256099942544/1712485313"
+      "banner": "",
+      "interstitial": "",
+      "splash": "ca-app-pub-2299291161271404/2243270010",
+      "native": "",
+      "appOpen": "",
+      "reward": ""
     },
     {
       "adIds": [
         "native",
 "banner",
 "reward",
-"splash",
 "interstitial",
 "appOpen"
       ],
