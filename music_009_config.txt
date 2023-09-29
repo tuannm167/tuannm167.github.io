@@ -31,6 +31,6 @@
       "reward": "d4d8865ebf715ac1"
     }
   ],
-  "adNumber": 5,
+  "adNumber": 0,
   "loadingTime": 10
 }
