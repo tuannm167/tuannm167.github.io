@@ -3,8 +3,6 @@
     {
       "adIds": [
          "native",
-        "splash",
-        "interstitial",
         "appOpen"
       ],
       "kind": "admob",
@@ -18,7 +16,6 @@
     {
       "adIds": [
         "native",
-        "reward",
         "interstitial",
         "appOpen"
       ],
@@ -31,6 +28,6 @@
       "reward": "d4d8865ebf715ac1"
     }
   ],
-  "adNumber": 0,
-  "loadingTime": 10
+  "adNumber": 5,
+  "loadingTime": 15
 }
