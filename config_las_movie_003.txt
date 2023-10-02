@@ -27,5 +27,6 @@
   ],
   "chgads": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
   "yekipa": "0f020a66f3e35379eef31c31363f2176",
-  "rateApp": false
+  "rateApp": false,
+  "ad_splash": 0
 }
