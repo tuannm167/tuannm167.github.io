@@ -22,5 +22,8 @@
       "native": "45cb66608b4e26fb",
       "appOpen": "98beb9f6da0f646d"
     }
-  ]
+  ],
+  "chgads": "aHR0cHM6Ly9waG90b215Lnh5eg==",
+  "yekipa": "0f020a66f3e35379eef31c31363f2176",
+  "rateApp": false
 }
