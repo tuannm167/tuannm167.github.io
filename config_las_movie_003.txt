@@ -2,7 +2,8 @@
   "adKinds": [
     {
       "adIds": [
-        "appOpen"
+        "appOpen",
+        "native"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/2932551648",
@@ -13,7 +14,8 @@
     },
     {
       "adIds": [
-        "appOpen"
+        "appOpen",
+        "native"
       ],
       "kind": "applovin",
       "banner": "66fb0d2c41ae472f",
