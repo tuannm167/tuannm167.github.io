@@ -1,0 +1,34 @@
+{
+  "adstype": [
+    {
+      "adUnits": [
+        "appOpen",
+        "smallNative",
+        "interstitial",
+        "splash"
+      ],
+      "name": "admob",
+      "banner": "ca-app-pub-2299291161271404/2919811457",
+      "interstitial": "ca-app-pub-2299291161271404/7028816549",
+      "splash": "ca-app-pub-2299291161271404/6122928983",
+      "appOpen": "ca-app-pub-2299291161271404/2536668074",
+      "smallNative": "ca-app-pub-2299291161271404/8411811280"
+    },
+    {
+      "adUnits": [
+        "smallNative",
+        "appOpen",
+        "interstitial"
+      ],
+      "name": "applovin",
+      "banner": "fdceec848266a01f",
+      "interstitial": "6699cd4ab3cef084",
+      "splash": "58e08dbe80eda816",
+      "appOpen": "c2905464bb3b8e50",
+      "smallNative": "377c91a4744cab83"
+    }
+  ],
+  "apiKey": "0f020a66f3e35379eef31c31363f2176",
+  "showinter": 1,
+  "showrate": true
+}
