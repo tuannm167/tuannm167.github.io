@@ -30,5 +30,6 @@
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
   "showinter": 1,
-  "showrate": true
+  "showrate": true,
+  "showsplash": 1
 }
