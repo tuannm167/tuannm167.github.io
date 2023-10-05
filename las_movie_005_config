@@ -4,7 +4,6 @@
       "appOpen",
       "native"
     ],
-    "adname": "admob",
     "banner": "ca-app-pub-2299291161271404/8019368546",
     "interstitial": "ca-app-pub-2299291161271404/5201633519",
     "splash": "ca-app-pub-2299291161271404/4195673605",
@@ -16,7 +15,6 @@
       "appOpen",
       "native"
     ],
-    "adname": "applovin",
     "banner": "902696ec379c3313",
     "interstitial": "79ba7941f2fe4547",
     "splash": "f0e3b217d33dae7e",
