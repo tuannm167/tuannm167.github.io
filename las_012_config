@@ -29,5 +29,6 @@
   "showinter": 0,
   "showrate": false,
   "showsplash": 0,
-  "loadingTime": 10
+  "loadingTime": 10,
+  "cashad": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms="
 }
