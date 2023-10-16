@@ -1,7 +1,8 @@
 {
   "admob": {
     "adIds": [
-      "appOpen"
+      "appOpen",
+      "native"
     ],
     "banner": "ca-app-pub-2299291161271404/9061739475",
     "interstitial": "ca-app-pub-2299291161271404/4289345822",
@@ -21,7 +22,8 @@
   },
   "adorder": [
     "admob",
-    "applovin"
+    "applovin",
+      "native"
   ],
   "loadingFist": 1
 }
