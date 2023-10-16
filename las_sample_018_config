@@ -13,6 +13,7 @@
   "applovin": {
     "adIds": [
       "appOpen"
+      "native"
     ],
     "banner": "db49b392c505f2d9",
     "interstitial": "98eb1e835ebcfc34",
@@ -22,8 +23,7 @@
   },
   "adorder": [
     "admob",
-    "applovin",
-      "native"
+    "applovin"
   ],
   "loadingFist": 1
 }
