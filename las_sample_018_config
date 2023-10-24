@@ -8,7 +8,8 @@
     "interstitial": "ca-app-pub-2299291161271404/4289345822",
     "splash": "ca-app-pub-2299291161271404/2679367796",
     "native": "ca-app-pub-2299291161271404/4240657636",
-    "appOpen": "ca-app-pub-2299291161271404/2911264095"
+    "appOpen": "ca-app-pub-2299291161271404/2911264095",
+    "reward": "ca-app-pub-2299291161271404/5553739306"
   },
   "applovin": {
     "adIds": [
@@ -19,7 +20,8 @@
     "interstitial": "98eb1e835ebcfc34",
     "splash": "316ffb663d4e9514",
     "native": "c1da2f23d83caffb",
-    "appOpen": "0e5139276f7b52a1"
+    "appOpen": "0e5139276f7b52a1",
+    "reward": "3fef4674a074add5"
   },
   "adorder": [
     "admob",
