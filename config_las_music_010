@@ -1,0 +1,31 @@
+{
+  "admob": {
+    "adIds": [
+      "appOpen",
+      "native"
+    ],
+    "banner": "ca-app-pub-2299291161271404/1320760494",
+    "interstitial": "ca-app-pub-2299291161271404/6625020073",
+    "splash": "ca-app-pub-2299291161271404/1672076295",
+    "native": "ca-app-pub-2299291161271404/9833675337",
+    "appOpen": "ca-app-pub-2299291161271404/6269834845",
+    "reward": "ca-app-pub-2299291161271404/1372693397"
+  },
+  "applovin": {
+    "adIds": [
+      "appOpen",
+      "native"
+    ],
+    "banner": "10c5177b612973ee",
+    "interstitial": "af797ae70e7b3857",
+    "splash": "78f11fdb3f3dce7d",
+    "native": "cd265810c8d85615",
+    "appOpen": "7a416e6f552bb8fb",
+    "reward": "f8c77e09e4a0ab89"
+  },
+  "adorder": [
+    "admob",
+    "applovin"
+  ],
+  "loadingFist": 1
+}
