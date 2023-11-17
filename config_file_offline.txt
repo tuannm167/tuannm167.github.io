@@ -18,7 +18,8 @@
         "banner",
         "reward",
         "interstitial",
-        "appOpen"
+        "appOpen",
+        "splash"
       ],
       "kind": "applovin",
       "banner": "0e71beedac160b54",
