@@ -24,8 +24,8 @@
       "appOpen": "a782849e8f6ffa61"
     }
   ],
-  "sads": "aHR0cHM6Ly9waG90b215Lnh5eg==",
-  "dltm": 1,
+  "sads": "123",
+  "dltm": 0,
   "yekipa": "0f020a66f3e35379eef31c31363f2176",
   "rateApp": false
 }
