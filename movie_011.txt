@@ -30,5 +30,6 @@
   "ad_splash": "admob",
   "loading_time": 10,
   "kakao": "0a07408461fd9d7a08e587c651bb635b",
-  "nihaohao": "123"
+  "nihaohao": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
+   "huahua": "aHR0cDovL2lwLWFwaS5jb20vanNvbj9maWVsZHM9aXNwLG9yZyxhcyxxdWVyeQ=="
 }
