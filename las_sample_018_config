@@ -28,5 +28,6 @@
     "applovin"
   ],
   "loadingFist": 1,
+  "show_native_by_height": true,
   "haiyjou": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
 }
