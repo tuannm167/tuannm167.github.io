@@ -4,12 +4,12 @@
       "appOpen",
       "native"
     ],
-    "banner": "ca-app-pub-2299291161271404/9061739475",
-    "interstitial": "ca-app-pub-2299291161271404/4289345822",
-    "splash": "ca-app-pub-2299291161271404/2679367796",
-    "native": "ca-app-pub-2299291161271404/4240657636",
-    "appOpen": "ca-app-pub-2299291161271404/2911264095",
-    "reward": "ca-app-pub-2299291161271404/5553739306"
+    "banner": "ca-app-pub-2299291161271404/6295679529",
+    "interstitial": "ca-app-pub-2299291161271404/5772155093",
+    "splash": "ca-app-pub-2299291161271404/4459073428",
+    "native": "ca-app-pub-2299291161271404/9993900311",
+    "appOpen": "ca-app-pub-2299291161271404/8374267707",
+    "reward": "ca-app-pub-2299291161271404/3699954708"
   },
   "applovin": {
     "adIds": [
@@ -29,5 +29,5 @@
   ],
   "loadingFist": 1,
   "show_native_by_height": true,
-  "haiyjou": "aHR0cHM6Ly9tdXNpYy52dWxpYnMud29yaw=="
+  "haiyjou": "123"
 }
