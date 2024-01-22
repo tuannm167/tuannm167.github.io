@@ -2,7 +2,7 @@
   "ads_first": {
     "adIds": [
       "appOpen",
-      "native"
+      "banner"
     ],
     "banner": "ca-app-pub-2299291161271404/7824221914",
     "interstitial": "ca-app-pub-2299291161271404/7946993922",
@@ -14,7 +14,7 @@
   "ads_seconds": {
     "adIds": [
       "appOpen",
-      "native"
+      "banner"
     ],
     "banner": "6ec038a53b169386",
     "interstitial": "28a13bbf382393bf",
