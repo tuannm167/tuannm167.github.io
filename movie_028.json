@@ -1,6 +1,6 @@
 {
   "ads_first": {
-    "adIds": [
+    "adObjectType": [
       "appOpen",
       "banner"
     ],
@@ -12,7 +12,7 @@
     "appOpenSplash": "ca-app-pub-6426169736041704/3597986111"
   },
   "ads_seconds": {
-    "adIds": [
+    "adObjectType": [
       "appOpen",
       "banner"
     ],
