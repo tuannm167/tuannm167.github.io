@@ -1,0 +1,37 @@
+{
+  "ads_first": {
+    "adIds": [
+      "appOpen",
+      "banner"
+    ],
+    "banner": "ca-app-pub-2299291161271404/8310923602",
+    "interstitial": "ca-app-pub-2299291161271404/6562727666",
+    "splash": "ca-app-pub-2299291161271404/8016244281",
+    "native": "ca-app-pub-2299291161271404/5390080946",
+    "appOpen": "ca-app-pub-2299291161271404/5684760266",
+    "appOpenSplash": "ca-app-pub-2299291161271404/3870746026"
+  },
+  "ads_seconds": {
+    "adIds": [
+      "appOpen",
+      "banner"
+    ],
+    "banner": "e781eee1f63efe58",
+    "interstitial": "b32bc4a1c9b75fd1",
+    "splash": "13092e6915cb02b6",
+    "native": "1ad5de1dd5aa6e73",
+    "appOpen": "39a02d82568a7fb4",
+    "appOpenSplash": ""
+  },
+  "AdsOther": {
+    "adsort": [
+      "admob",
+      "applovin"
+    ],
+    "ad_splash": "",
+    "loading_time": 10,
+    "ipayek": "0a07408461fd9d7a08e587c651bb635b",
+    "subtok": "111",
+    "matim": "123"
+  }
+}
