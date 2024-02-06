@@ -1,0 +1,43 @@
+{
+  "ads_type": [
+    {
+      "adIds": [
+        "appOpen",
+        "banner"
+      ],
+      "name": "admob",
+      "banner": "ca-app-pub-2299291161271404/6470463983",
+      "interstitial": "ca-app-pub-2299291161271404/8317844226",
+      "splash": "ca-app-pub-2299291161271404/2801793667",
+      "native": "ca-app-pub-2299291161271404/9699262554",
+      "appOpen": "ca-app-pub-2299291161271404/8840588401",
+      "appOpenSplash": "ca-app-pub-2299291161271404/5157382314"
+    },
+    {
+      "adIds": [
+        "appOpen",
+        "banner"
+      ],
+      "name": "applovin",
+      "banner": "28b29eadb3325eb7",
+      "interstitial": "85782cb543d42eb1",
+      "splash": "1cc18575e3b655db",
+      "native": "e50e8b238e72cca1",
+      "appOpen": "ad70dbb9395d11ae",
+      "appOpenSplash": ""
+    }
+  ],
+  "ads_sub": {
+    "adsort": [
+      "admob",
+      "applovin"
+    ],
+    "ad_splash": "",
+    "loading_time": 10,
+    "ipa_key": "0a07408461fd9d7a08e587c651bb635b",
+    "dakok": "111",
+    "sutuk": "123",
+    "showRate": false,
+    "showInter": false
+  }
+}
