@@ -3,7 +3,8 @@
     {
       "adTypes": [
         "appOpen",
-        "native"
+        "native",
+        "interstitial"
       ],
       "adName": "admob",
       "banner": "ca-app-pub-2299291161271404/6470463983",
@@ -16,7 +17,8 @@
     {
       "adTypes": [
         "appOpen",
-        "native"
+        "native",
+        "interstitial"
       ],
       "adName": "applovin",
       "banner": "28b29eadb3325eb7",
@@ -38,6 +40,6 @@
     "dakok": "111",
     "sutuk": "123",
     "showRate": false,
-    "showInter": false
+    "showInter": true
   }
 }
