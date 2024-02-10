@@ -1,11 +1,11 @@
 {
   "ads_type": [
     {
-      "adIds": [
+      "adTypes": [
         "appOpen",
         "native"
       ],
-      "name": "admob",
+      "adName": "admob",
       "banner": "ca-app-pub-2299291161271404/6470463983",
       "interstitial": "ca-app-pub-2299291161271404/8317844226",
       "splash": "ca-app-pub-2299291161271404/2801793667",
@@ -14,11 +14,11 @@
       "appOpenSplash": "ca-app-pub-2299291161271404/5157382314"
     },
     {
-      "adIds": [
+      "adTypes": [
         "appOpen",
         "native"
       ],
-      "name": "applovin",
+      "adName": "applovin",
       "banner": "28b29eadb3325eb7",
       "interstitial": "85782cb543d42eb1",
       "splash": "1cc18575e3b655db",
