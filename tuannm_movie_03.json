@@ -15,7 +15,7 @@
     "splash": "1f68528458ac262a",
     "native": "fd39d6eefc24b97b",
     "appOpen": "77dec70868e10160",
-    "appOpenSplash": ""
+    "splashOpen": ""
   },
   "third_ads": {
     "ad_order": ["admob", "applovin"]
