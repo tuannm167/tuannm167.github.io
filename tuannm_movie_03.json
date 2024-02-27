@@ -18,9 +18,9 @@
     "splashOpen": ""
   },
   "third_ads": {
-    "ad_order": ["admob", "applovin"]
-  },
-  "ad_splash": "",
-  "loading_time": 10,
-  "ad_more": ""
+    "ad_order": ["admob", "applovin"],
+    "ad_splash": "",
+    "loading_time": 10,
+    "ad_more": ""
+  }
 }
